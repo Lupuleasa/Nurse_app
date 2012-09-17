@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="measurements">
+        <item name="temperature">Temperature</item>
+        <item name="weight">Weight</item>
+        <item name="pulse">Pulse</item>
+        <item name="blood_pressure">Blood pressure</item>
+    </string-array>
+</resources>

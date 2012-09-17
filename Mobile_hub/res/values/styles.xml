@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+
+    <style name="styleName" parent="android:Widget.Holo.Light.ImageButton">
+    </style>
+</resources>

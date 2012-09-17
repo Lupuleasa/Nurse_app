@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="home_activities">
+        <item name="measurements">Measurements</item>
+        <item name="prescription_list">Prescription list</item>
+        <item name="patient_info">Patient info</item>
+        <item name="panic_button">Panic button</item>
+    </string-array>
+</resources>
